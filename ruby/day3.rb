@@ -1,7 +1,7 @@
 require 'set'
 
 def input
-  File.read('inputs/day3.txt')
+  File.read('../inputs/day3.txt')
 end
 
 def part1

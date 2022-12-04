@@ -1,5 +1,5 @@
 def input
-  File.read('inputs/day1.txt')
+  File.read('../inputs/day1.txt')
 end
 
 def part1
