@@ -1,6 +1,3 @@
-require 'pp'
-require 'debug'
-
 def input
   @input ||= File.read('../inputs/day7.txt')
 end
